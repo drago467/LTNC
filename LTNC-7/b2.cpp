@@ -19,3 +19,4 @@ void Try(int i) {
 int main() {
     Try(0);
 }
+
